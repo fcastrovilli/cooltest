@@ -2,7 +2,8 @@
 
 <div class="container h-full mx-auto flex justify-center items-center">
 	<div class="space-y-10 text-center flex flex-col items-center">
-		<h2 class="h2">THANK YOU FOR BEEING HERE.</h2>
+		<h2 class="h2">ARE YOU HERE?</h2>
+		<h3>IS THIS EVEN WORKING?</h3>
 		<!-- Animated Logo -->
 		<figure>
 			<section class="img-bg" />
